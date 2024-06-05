@@ -1,14 +1,25 @@
 {
   "files": {
     "main.css": "/react-ecommerce-app/static/css/main.03f67b1d.css",
-    "main.js": "/react-ecommerce-app/static/js/main.708bcc9d.js",
+    "main.js": "/react-ecommerce-app/static/js/main.304522f6.js",
     "static/media/Smartphone- Banner.png": "/react-ecommerce-app/static/media/Smartphone- Banner.c5a38945fa9500d91659.png",
+    "static/media/realme1.png": "/react-ecommerce-app/static/media/realme1.7d9758fef3996b97267f.png",
+    "static/media/OnePlus1.png": "/react-ecommerce-app/static/media/OnePlus1.df66aa325d7421a6b106.png",
+    "static/media/techno.png": "/react-ecommerce-app/static/media/techno.13ad1138e33351247c33.png",
+    "static/media/OPPO.png": "/react-ecommerce-app/static/media/OPPO.0d21ac1620b586d999dc.png",
+    "static/media/samsung.jpg": "/react-ecommerce-app/static/media/samsung.4bb4671dc441aa4b4b78.jpg",
+    "static/media/OnePlus.png": "/react-ecommerce-app/static/media/OnePlus.1718e642e6a7d7e0112a.png",
+    "static/media/Redmi.jpg": "/react-ecommerce-app/static/media/Redmi.623dbe23cbc3587c53b8.jpg",
+    "static/media/Poco.jpg": "/react-ecommerce-app/static/media/Poco.7262cdd4537325658d46.jpg",
+    "static/media/Vivo.jpg": "/react-ecommerce-app/static/media/Vivo.3dc470465b0772e3812f.jpg",
+    "static/media/Motorola.jpg": "/react-ecommerce-app/static/media/Motorola.e1dc3f5c772533ba8564.jpg",
+    "static/media/Apple.jpg": "/react-ecommerce-app/static/media/Apple.ab7f8f07e3cb422ba2f3.jpg",
     "index.html": "/react-ecommerce-app/index.html",
     "main.03f67b1d.css.map": "/react-ecommerce-app/static/css/main.03f67b1d.css.map",
-    "main.708bcc9d.js.map": "/react-ecommerce-app/static/js/main.708bcc9d.js.map"
+    "main.304522f6.js.map": "/react-ecommerce-app/static/js/main.304522f6.js.map"
   },
   "entrypoints": [
     "static/css/main.03f67b1d.css",
-    "static/js/main.708bcc9d.js"
+    "static/js/main.304522f6.js"
   ]
 }
