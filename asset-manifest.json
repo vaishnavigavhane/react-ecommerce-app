@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-ecommerce-app/static/css/main.03f67b1d.css",
-    "main.js": "/react-ecommerce-app/static/js/main.304522f6.js",
+    "main.js": "/react-ecommerce-app/static/js/main.ce205d4a.js",
     "static/media/Smartphone- Banner.png": "/react-ecommerce-app/static/media/Smartphone- Banner.c5a38945fa9500d91659.png",
     "static/media/realme1.png": "/react-ecommerce-app/static/media/realme1.7d9758fef3996b97267f.png",
     "static/media/OnePlus1.png": "/react-ecommerce-app/static/media/OnePlus1.df66aa325d7421a6b106.png",
@@ -16,10 +16,10 @@
     "static/media/Apple.jpg": "/react-ecommerce-app/static/media/Apple.ab7f8f07e3cb422ba2f3.jpg",
     "index.html": "/react-ecommerce-app/index.html",
     "main.03f67b1d.css.map": "/react-ecommerce-app/static/css/main.03f67b1d.css.map",
-    "main.304522f6.js.map": "/react-ecommerce-app/static/js/main.304522f6.js.map"
+    "main.ce205d4a.js.map": "/react-ecommerce-app/static/js/main.ce205d4a.js.map"
   },
   "entrypoints": [
     "static/css/main.03f67b1d.css",
-    "static/js/main.304522f6.js"
+    "static/js/main.ce205d4a.js"
   ]
 }
