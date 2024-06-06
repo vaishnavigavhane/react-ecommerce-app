@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-ecommerce-app/static/css/main.23a49051.css",
-    "main.js": "/react-ecommerce-app/static/js/main.d9ee348e.js",
+    "main.css": "/react-ecommerce-app/static/css/main.ffa756dd.css",
+    "main.js": "/react-ecommerce-app/static/js/main.4fa6f583.js",
     "static/media/Smartphone- Banner.png": "/react-ecommerce-app/static/media/Smartphone- Banner.c5a38945fa9500d91659.png",
     "static/media/realme1.png": "/react-ecommerce-app/static/media/realme1.7d9758fef3996b97267f.png",
     "static/media/OnePlus1.png": "/react-ecommerce-app/static/media/OnePlus1.df66aa325d7421a6b106.png",
@@ -15,11 +15,11 @@
     "static/media/Motorola.jpg": "/react-ecommerce-app/static/media/Motorola.e1dc3f5c772533ba8564.jpg",
     "static/media/Apple.jpg": "/react-ecommerce-app/static/media/Apple.ab7f8f07e3cb422ba2f3.jpg",
     "index.html": "/react-ecommerce-app/index.html",
-    "main.23a49051.css.map": "/react-ecommerce-app/static/css/main.23a49051.css.map",
-    "main.d9ee348e.js.map": "/react-ecommerce-app/static/js/main.d9ee348e.js.map"
+    "main.ffa756dd.css.map": "/react-ecommerce-app/static/css/main.ffa756dd.css.map",
+    "main.4fa6f583.js.map": "/react-ecommerce-app/static/js/main.4fa6f583.js.map"
   },
   "entrypoints": [
-    "static/css/main.23a49051.css",
-    "static/js/main.d9ee348e.js"
+    "static/css/main.ffa756dd.css",
+    "static/js/main.4fa6f583.js"
   ]
 }
