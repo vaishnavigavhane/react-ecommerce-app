@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-ecommerce-app/static/css/main.ffa756dd.css",
-    "main.js": "/react-ecommerce-app/static/js/main.4fa6f583.js",
+    "main.js": "/react-ecommerce-app/static/js/main.d870d394.js",
     "static/media/Smartphone- Banner.png": "/react-ecommerce-app/static/media/Smartphone- Banner.c5a38945fa9500d91659.png",
     "static/media/realme1.png": "/react-ecommerce-app/static/media/realme1.7d9758fef3996b97267f.png",
     "static/media/OnePlus1.png": "/react-ecommerce-app/static/media/OnePlus1.df66aa325d7421a6b106.png",
@@ -16,10 +16,10 @@
     "static/media/Apple.jpg": "/react-ecommerce-app/static/media/Apple.ab7f8f07e3cb422ba2f3.jpg",
     "index.html": "/react-ecommerce-app/index.html",
     "main.ffa756dd.css.map": "/react-ecommerce-app/static/css/main.ffa756dd.css.map",
-    "main.4fa6f583.js.map": "/react-ecommerce-app/static/js/main.4fa6f583.js.map"
+    "main.d870d394.js.map": "/react-ecommerce-app/static/js/main.d870d394.js.map"
   },
   "entrypoints": [
     "static/css/main.ffa756dd.css",
-    "static/js/main.4fa6f583.js"
+    "static/js/main.d870d394.js"
   ]
 }
